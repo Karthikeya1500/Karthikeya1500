@@ -1,3 +1,7 @@
+![](https://gemini.google.com/app/f602e31ea1d40122?_gl=1*1fny7u0*_gcl_aw*R0NMLjE3NTgwNDMxNzQuQ2p3S0NBandsYVRHQmhBTkVpd0FvUmdYQmJJeGJZQ2h6V3JQRnRzUWt5MTVFNlJTMGQ2RnZZQUFZUWx1UHdQRExuOTREZ0tnTEI0UFlob0NDU29RQXZEX0J3RQ..*_gcl_dc*R0NMLjE3NTgwNDMxNzQuQ2p3S0NBandsYVRHQmhBTkVpd0FvUmdYQmJJeGJZQ2h6V3JQRnRzUWt5MTVFNlJTMGQ2RnZZQUFZUWx1UHdQRExuOTREZ0tnTEI0UFlob0NDU29RQXZEX0J3RQ..*_gcl_au*MjA3ODY1MjA2OS4xNzU4MDEzMTY5LjE0OTY2MjQxOS4xNzU4MDQzMzQyLjE3NTgwNDMzNDI.*_ga*MTA5MDUwMzY0Ny4xNzU4MDEzMTY5*_ga_WC57KJ50ZZ*czE3NTgwNDMxNzQkbzIkZzEkdDE3NTgwNDMzNTQkajQ3JGwwJGgw)
+
+
+
 # 💫 About Me:
 👋 Hi, I’m Karthikeya  <br>💻 Passionate about full-stack web development and backend engineering  <br>⚡ Currently exploring Express.js, Prisma, and MySQL  <br>🚀 Love building scalable APIs and solving real-world problems with code  <br>🎓 B.Tech student at Newton School of Technology  <br>📚 Always learning and open to collaboration on exciting projects<br>
 
