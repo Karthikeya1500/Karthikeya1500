@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/animation/2024/05/07/06/57/06-57-07-12_512.gif" width="400" height="800"/>
+<img src="https://cdn.pixabay.com/animation/2024/05/07/06/57/06-57-07-12_512.gif" width="800" height="400"/>
 
 
 
